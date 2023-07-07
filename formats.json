@@ -1,0 +1,20 @@
+[
+    {
+        "GOAT-2005": {
+            "format":"cartasQuesePuedenUsar.com",
+            "Banlist":"cartasQueNosePuedenUsar.com"
+        }
+    },
+    {
+        "Advanced": {
+            "format":"cartasQuesePuedenUsar.com",
+            "Banlist":"cartasQueNosePuedenUsar.com"
+        }
+    },
+    {
+        "Advanced": {
+            "format":"cartasQuesePuedenUsar.com",
+            "Banlist":"cartasQueNosePuedenUsar.com"
+        }
+    }
+]

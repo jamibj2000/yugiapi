@@ -1,6 +1,31 @@
-[{
-    "cards" : [
-        "Access code-talker",
-        "Phoenix hero"
-    ]
-}]
+[
+    {"cards": [
+        "Destiny hero",
+        "Raigeki",
+        "Raigeki",
+        "Raigeki",
+        "Raigeki",
+        "Time wizard",
+        "Time wizard",
+        "Time wizard",
+        "Time wizard",
+        "Dark magician",
+        "Neo Spacian HERO",
+        "Neo Spacian HERO",
+        "Neo Spacian HERO",
+        "Neo Spacian HERO",
+        "Neo Spacian HERO",
+        "Neo Spacian HERO",
+        "Neo Spacian HERO",
+        "Neo Spacian HERO",
+        "Slifer, sky dragon"
+    ]},
+    {
+        "decks": [
+            "Runic",
+            "Dark world",
+            "White dragon",
+            "Dark magician"
+        ]
+    }
+]
